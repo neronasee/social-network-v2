@@ -1,0 +1,20 @@
+{
+  "extends": "airbnb-base",
+  "parserOptions": {
+    "ecmaVersion": 8
+  },
+  "env": {
+    "jest": true
+  },
+  "rules": {
+    "arrow-parens": "off",
+    "consistent-return": "off",
+    "arrow-body-style": "off",
+    "no-unused-expressions": "off",
+    "comma-dangle": "off",
+    "camelcase": "off",
+    "no-plusplus": "off",
+    "prefer-spread": "off",
+    "function-paren-newline": "off"
+  }
+}
